@@ -82,25 +82,3 @@ if len(player1) > 0:
     print('player 1 won')
 else:
     print('Player 2 won')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
